@@ -4,7 +4,7 @@
 Vous trouverez ici mon site de restaurant.
 Celui-ci fait partie d'un de mes exercice pour l'initiation à Bootstrap chez BeCode Brussels.
 Cet exercice arrive après les deux premières semaines de ma formation de junior Web Dev.
-
+Nom du restaurant pour l'exercice : Chez Bibi
 *Création du projet le 26/06/2020.*
 
 ## Page 

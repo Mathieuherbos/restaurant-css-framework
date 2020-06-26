@@ -1,0 +1,10 @@
+body 
+{
+     padding-top: 70px;
+     /*pour faire en sorte que le texte ne passe pas en dessous de la nav bar*/
+}
+
+.logobibi
+{
+    width: 50px;
+}
