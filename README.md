@@ -22,5 +22,8 @@ Cet exercice est à réaliser seul.
 ## Progression 
 - 25/06/2020 découverte de la théorie de Boostrap 3 et exercices 
 - 26/06/2020 Fin de la lecture de la théorie, maquette du site et création du repo
+- 29/06/2020 Création squelette page, et contenu
 
 ## Crédit 
+
+Toutes les photos viennent de [unsplash](https://unsplash.com/)
