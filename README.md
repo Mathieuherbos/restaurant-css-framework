@@ -26,7 +26,7 @@ Cet exercice est à réaliser seul.
 - 30/06/2020 Mise en page et fin du projet
 
 ## Screenshot 
-![Home page](/images/Capture2.png)
+![Home page](./images/Capture2.png)
 ![Contact page](/images/Capture3.png)
 
 ## Crédit 
