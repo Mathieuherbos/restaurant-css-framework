@@ -1,5 +1,10 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
 body 
 {
+    font-family: 'Oswald', sans-serif !important;
      padding-top: 50px;
      /*pour faire en sorte que le texte ne passe pas en dessous de la nav bar*/
 }
@@ -9,12 +14,11 @@ header
 }
 
 /*footer*/
-footer 
-{
+.footer {
     position: absolute;
-    bottom: -20;
-    width: auto;
-    height: 80px;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
 }
 
 .logofooter
