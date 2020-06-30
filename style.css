@@ -1,6 +1,6 @@
 body 
 {
-     padding-top: 70px;
+     padding-top: 50px;
      /*pour faire en sorte que le texte ne passe pas en dessous de la nav bar*/
 }
 header 
@@ -9,6 +9,14 @@ header
 }
 
 /*footer*/
+footer 
+{
+    position: absolute;
+    bottom: -20;
+    width: auto;
+    height: 80px;
+}
+
 .logofooter
 {
     width: 80px;
@@ -20,12 +28,16 @@ header
     width: 50px;
     text-align: center;
     text-decoration: none;
-    background: blue;
+    background: #1d17a9;
     color: yellow;
 }
 .fa:hover 
 {
     opacity: 0.7;
+}
+.page-footer
+{
+    margin-top: 40px;
 }
 
 /*home page*/
@@ -39,18 +51,21 @@ header
     color: yellow;
     padding-top: 0px;
 }
+
 html body 
 { 
-    background-color: navy ;
+    background-color: #1d17a9 ;
     color: yellow ;
 }
+
 .special
 {
-    color:navy;
+    color:#1d17a9;
 }
+
 .events
 {
-    color: navy;
+    color: #1d17a9;
 }
 
 /*MENU*/
@@ -58,8 +73,25 @@ html body
 {
     text-align: center;
 }
-/*Pictures*/
+/*PICTURES*/
 .img-thumbnail
 {
     width:450px;
+}
+/*RESTAURANT*/
+.mapouter
+{
+    position:relative;
+    text-align:right;
+    height:199px;
+    width:268px;
+    margin-bottom: 20px;
+}
+
+.gmap_canvas 
+{
+    overflow:hidden;
+    background:none!important;
+    height:199px;
+    width:268px;
 }
