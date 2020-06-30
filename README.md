@@ -25,6 +25,9 @@ Cet exercice est à réaliser seul.
 - 29/06/2020 Création squelette page, et contenu
 - 30/06/2020 Mise en page et fin du projet
 
+## Screenshot 
+![Home page](images/capture2.jpg)
+
 ## Crédit 
 
 Toutes les photos viennent de [unsplash](https://unsplash.com/)
