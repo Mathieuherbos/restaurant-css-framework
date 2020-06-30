@@ -8,7 +8,7 @@ Nom du restaurant pour l'exercice : Chez Bibi
 *Création du projet le 26/06/2020.*
 
 ## Page 
-retrouver [ici]() le lien vers le site.
+retrouver [ici](https://mathieuherbos.github.io/restaurant-css-framework/) le lien vers le site.
 
 ## Languages et outils utilisés 
 - HTML5
@@ -20,9 +20,10 @@ retrouver [ici]() le lien vers le site.
 Cet exercice est à réaliser seul.
 
 ## Progression 
-- 25/06/2020 découverte de la théorie de Boostrap 3 et exercices 
+- 25/06/2020 Découverte de la théorie de Boostrap 3 et exercices 
 - 26/06/2020 Fin de la lecture de la théorie, maquette du site et création du repo
 - 29/06/2020 Création squelette page, et contenu
+- 30/06/2020 Mise en page et fin du projet
 
 ## Crédit 
 
