@@ -1,0 +1,98 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body 
+{
+    font-family: 'Oswald', sans-serif !important;
+     padding-top: 50px;
+     /*pour faire en sorte que le texte ne passe pas en dessous de la nav bar*/
+}
+header 
+{
+    padding-right: 50px;
+}
+
+/*footer*/
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+}
+
+.logofooter
+{
+    width: 80px;
+}
+.fa 
+{
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    background: #1d17a9;
+    color: yellow;
+}
+.fa:hover 
+{
+    opacity: 0.7;
+}
+.page-footer
+{
+    margin-top: 40px;
+}
+
+/*HOME*/
+.jumbotron
+{
+    text-align: center;
+    background-image: url(images/bannertest.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    color: yellow;
+    padding-top: 0px;
+}
+
+html body 
+{ 
+    background-color: #1d17a9 ;
+    color: yellow ;
+}
+
+.special
+{
+    color:#1d17a9;
+}
+
+.events
+{
+    color: #1d17a9;
+}
+
+/*MENU*/
+.ourmenu
+{
+    text-align: center;
+}
+/*PICTURES*/
+.img-thumbnail
+{
+    width:450px;
+}
+/*RESTAURANT*/
+.mapouter
+{
+    position:relative;
+    text-align:right;
+    height:199px;
+    width:268px;
+}
+
+.gmap_canvas 
+{
+    overflow:hidden;
+    background:none!important;
+}
